@@ -1,0 +1,4 @@
+boto3
+opencv-python-headless
+# PyTorch/torchvision are installed from the CPU wheel index in Dockerfile.
+# YOLOv5 requirements are installed from the cloned Ultralytics repository.
