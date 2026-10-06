@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+
+# Environment and credentials
+.env
+.env.*
+*.pem
+*.key
+
+# AWS
+.aws/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# YOLO output/cache
+runs/
+*.pt
+
+# Temporary files
+tmp/
+*.log
